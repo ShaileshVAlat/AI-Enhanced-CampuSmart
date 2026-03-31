@@ -1,5 +1,4 @@
- />"# AI-Enhanced-CampuSmart" 
- # T&P Portal
+# T&P Portal
 
 > Online Training and Placement web portal for GHRCE, Nagpur students using MongoDb, Express.js, AngularJs and Node.js (MEAN)
 
@@ -20,25 +19,60 @@ The aim for doing this project was to make recruitment process in online mode an
 - Node.Js (Server side JavaScript runtime environment)
 <!-- - Nodemailer (Node.Js module to send emails) -->
 
+# Initial Requirements
+
+### Install npm
+
+```
+npm install <package_name(optional)>
+```
+
+### Install Express
+
+```
+npm install express
+```
+
+# Setup Project
+
+## 1. Clone/Download Repository
+
+```
+git clone https://github.com/rajatgaikwad10/T-P.git
+```
+
+## 2. Change Directory
+
+```
+cd T-P
+```
+
+## 3. Install Dependencies
+
+```
+npm install
+```
+
+## 4. Start Server
+
+```
+npm start
+```
 
 # Image Gallary
 
 ### Landing Page
-<img width="1919" height="988" alt="Screenshot 2025-09-18 204229" src="https://github.com/user-attachments/assets/89392711-a82b-4490-9dd6-34755635a1c2" />
+
+![image](https://user-images.githubusercontent.com/105495831/212559470-70404b5c-a1c6-4657-a57a-57f773175df3.png)
+
+### Student Profile
+
+![image](https://user-images.githubusercontent.com/105495831/212559120-d335afe2-8638-4cda-a50c-472f6ae846da.png)
+
+### Notification Page
+
+![image](https://user-images.githubusercontent.com/105495831/212559012-651149cf-fce5-4cb1-93ff-0f03d7bec65f.png)
 
 ### Interview Experience Page
-<img width="1900" height="985" alt="Screenshot 2025-09-18 204735" src="https://github.com/user-attachments/assets/c2d69348-5360-4eba-8a07-1d814af8e581" />
 
-### Company Details Page
-<img width="1900" height="992" alt="Screenshot 2025-09-18 204748" src="https://github.com/user-attachments/assets/a7f120b0-f188-4ede-9b15-f3ade80e9e4b" />
-
-### Smart Application Tracking System
-<img width="1908" height="914" alt="Screenshot 2025-09-18 204402" src="https://github.com/user-attachments/assets/e20238d3-a7e6-48d5-8f4e-2d5c6244eb81" />
-
-### Chatbot
-<img width="1915" height="989" alt="Screenshot 2025-09-18 204627" src="https://github.com/user-attachments/assets/a4b33b40-37ab-4113-85aa-c4c9e0f9e34e" />
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/105495831/212557767-1011b00a-ca15-43cb-b752-2ecc6f8c0b3b.png)
